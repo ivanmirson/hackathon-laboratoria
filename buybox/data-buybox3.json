@@ -1,0 +1,65 @@
+{
+    "name": "Polera 1 pieza Algodón Niño",
+    "productId": "882382727",
+    "brand": "STARTER",
+    "images": [
+      "https://falabella.scene7.com/is/image/Falabella/882382752_1",
+      "https://falabella.scene7.com/is/image/Falabella/882382752_2"
+    ],
+    "offerings": [
+      {
+        "seller": "Seller D",
+        "rating": 5,
+        "price": 13119,
+        "specialPrice": 7750,
+        "shippingTime": 0,
+        "shippingZones": [
+          { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+          { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+          { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+          { "region": "Valparaíso", "comuna": "Quintero" },
+          { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+          { "region": "Valparaíso", "comuna": "Puchuncaví" },
+          { "region": "Valparaíso", "comuna": "Zapallar" },
+          { "region": "Valparaíso", "comuna": "Olmué" }
+        ]
+      },
+      {
+        "seller": "Seller C",
+        "rating": 2,
+        "price": 13769,
+        "specialPrice": 7750,
+        "shippingTime": 3,
+        "shippingZones": [
+          { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+          { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+          { "region": "Ñuble", "comuna": "El Carmen" },
+          { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+          { "region": "Valparaíso", "comuna": "Villa Alemana" },
+          { "region": "Valparaíso", "comuna": "Calle Larga" },
+          { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+          { "region": "Valparaíso", "comuna": "Zapallar" },
+          { "region": "Metropolitana de Santiago", "comuna": "Tiltil" }
+        ]
+      },
+      {
+        "seller": "Seller B",
+        "rating": 2,
+        "price": 14159,
+        "specialPrice": 7350,
+        "shippingTime": 2,
+        "shippingZones": [
+          { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+          { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+          { "region": "Ñuble", "comuna": "Quillón" },
+          { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+          { "region": "Valparaíso", "comuna": "Concón" },
+          { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+          { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+          { "region": "Valparaíso", "comuna": "Quintero" },
+          { "region": "Valparaíso", "comuna": "Limache" }
+        ]
+      }
+    ]
+  }
+  

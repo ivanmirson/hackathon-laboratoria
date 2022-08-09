@@ -1,0 +1,937 @@
+{
+    "products": [
+      {
+        "name": "Polera Spiderman Algodón Niño",
+        "productId": "882363229",
+        "brand": "MARVEL",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/882363234_1",
+          "https://falabella.scene7.com/is/image/Falabella/882363234_2"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller E",
+            "rating": 3,
+            "price": 9990,
+            "specialPrice": 5570,
+            "shippingTime": 1,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+              { "region": "Ñuble", "comuna": "Pinto" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" },
+              { "region": "Ñuble", "comuna": "El Carmen" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" }
+            ]
+          },
+          {
+            "seller": "Seller A",
+            "rating": 4,
+            "price": 10889,
+            "specialPrice": 5391,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Valparaíso", "comuna": "Calle Larga" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Valparaíso", "comuna": "Concón" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Valparaíso", "comuna": "Putaendo" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" }
+            ]
+          },
+          {
+            "seller": "Seller D",
+            "rating": 4,
+            "price": 10789,
+            "specialPrice": 5750,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+              { "region": "Ñuble", "comuna": "Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+              { "region": "Metropolitana de Santiago", "comuna": "Renca" }
+            ]
+          },
+          {
+            "seller": "Seller C",
+            "rating": 4,
+            "price": 10689,
+            "specialPrice": 5630,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Ñuble", "comuna": "Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Ñuble", "comuna": "Quillón" },
+              { "region": "Valparaíso", "comuna": "Zapallar" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Camisa de Vestir Slim Fit Hombre",
+        "productId": "881875219",
+        "brand": "BASEMENT",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/881875225_1",
+          "https://falabella.scene7.com/is/image/Falabella/881875225_2",
+          "https://falabella.scene7.com/is/image/Falabella/881875225_3"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller A",
+            "rating": 5,
+            "price": 27239,
+            "specialPrice": 23240,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Valparaíso", "comuna": "Olmué" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+              { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+              { "region": "Valparaíso", "comuna": "Concón" }
+            ]
+          },
+          {
+            "seller": "Seller B",
+            "rating": 4,
+            "price": 26239,
+            "specialPrice": 23490,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Zapallar" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Valparaíso", "comuna": "San Felipe" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+              { "region": "Valparaíso", "comuna": "Olmué" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" }
+            ]
+          },
+          {
+            "seller": "Seller C",
+            "rating": 3,
+            "price": 25989,
+            "specialPrice": 24490,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+              { "region": "Valparaíso", "comuna": "Concón" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" },
+              { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+              { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+              { "region": "Valparaíso", "comuna": "Putaendo" },
+              { "region": "Ñuble", "comuna": "El Carmen" },
+              { "region": "Valparaíso", "comuna": "Zapallar" }
+            ]
+          },
+          {
+            "seller": "Seller D",
+            "rating": 3,
+            "price": 25239,
+            "specialPrice": 23990,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Polera Avengers Algodón Niño",
+        "productId": "882276732",
+        "brand": "AVENGERS",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/882276742_1",
+          "https://falabella.scene7.com/is/image/Falabella/882276742_2"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller E",
+            "rating": 4,
+            "price": 8789,
+            "specialPrice": 3910,
+            "shippingTime": 1,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" }
+            ]
+          },
+          {
+            "seller": "Seller B",
+            "rating": 2,
+            "price": 7990,
+            "specialPrice": 3750,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Valparaíso", "comuna": "Olmué" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Valparaíso", "comuna": "San Felipe" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Valparaíso", "comuna": "Zapallar" }
+            ]
+          },
+          {
+            "seller": "Seller C",
+            "rating": 2,
+            "price": 8789,
+            "specialPrice": 3830,
+            "shippingTime": 1,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" },
+              { "region": "Ñuble", "comuna": "Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Valparaíso", "comuna": "San Felipe" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Polera 1 pieza Algodón Niño",
+        "productId": "882382445",
+        "brand": "DC ORIGINALS",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/882382454_1",
+          "https://falabella.scene7.com/is/image/Falabella/882382454_2"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller D",
+            "rating": 3,
+            "price": 13639,
+            "specialPrice": 6990,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Ñuble", "comuna": "Pinto" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Ñuble", "comuna": "Quillón" },
+              { "region": "Valparaíso", "comuna": "Putaendo" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+              { "region": "Valparaíso", "comuna": "San Felipe" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" }
+            ]
+          },
+          {
+            "seller": "Seller E",
+            "rating": 3,
+            "price": 13119,
+            "specialPrice": 6430,
+            "shippingTime": 1,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" }
+            ]
+          },
+          {
+            "seller": "Seller C",
+            "rating": 5,
+            "price": 13379,
+            "specialPrice": 6710,
+            "shippingTime": 1,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Ñuble", "comuna": "El Carmen" },
+              { "region": "Valparaíso", "comuna": "San Felipe" }
+            ]
+          },
+          {
+            "seller": "Seller A",
+            "rating": 2,
+            "price": 14159,
+            "specialPrice": 6640,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Calle Larga" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Ñuble", "comuna": "El Carmen" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Polera 1 pieza Algodón Niño",
+        "productId": "882382727",
+        "brand": "STARTER",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/882382740_1",
+          "https://falabella.scene7.com/is/image/Falabella/882382740_2"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller C",
+            "rating": 2,
+            "price": 13769,
+            "specialPrice": 7430,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Valparaíso", "comuna": "Putaendo" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Ñuble", "comuna": "Pinto" },
+              { "region": "Valparaíso", "comuna": "Olmué" }
+            ]
+          },
+          {
+            "seller": "Seller E",
+            "rating": 2,
+            "price": 13119,
+            "specialPrice": 7670,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+              { "region": "Valparaíso", "comuna": "Concón" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+              { "region": "Ñuble", "comuna": "Pinto" },
+              { "region": "Ñuble", "comuna": "Quillón" },
+              { "region": "Valparaíso", "comuna": "San Felipe" }
+            ]
+          },
+          {
+            "seller": "Seller A",
+            "rating": 2,
+            "price": 13249,
+            "specialPrice": 7270,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Ñuble", "comuna": "San Nicolás" },
+              { "region": "Ñuble", "comuna": "El Carmen" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" }
+            ]
+          },
+          {
+            "seller": "Seller B",
+            "rating": 3,
+            "price": 14029,
+            "specialPrice": 7270,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+              { "region": "Valparaíso", "comuna": "Putaendo" },
+              { "region": "Ñuble", "comuna": "Quillón" },
+              { "region": "Valparaíso", "comuna": "Quintero" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Polera 1 pieza Algodón Niño",
+        "productId": "882382727",
+        "brand": "STARTER",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/882382745_1",
+          "https://falabella.scene7.com/is/image/Falabella/882382745_2"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller C",
+            "rating": 5,
+            "price": 13379,
+            "specialPrice": 7430,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+              { "region": "Valparaíso", "comuna": "Zapallar" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" }
+            ]
+          },
+          {
+            "seller": "Seller B",
+            "rating": 4,
+            "price": 13639,
+            "specialPrice": 7270,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+              { "region": "Valparaíso", "comuna": "Concón" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Valparaíso", "comuna": "Olmué" }
+            ]
+          },
+          {
+            "seller": "Seller D",
+            "rating": 5,
+            "price": 14159,
+            "specialPrice": 7830,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Valparaíso", "comuna": "Calle Larga" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+              { "region": "Valparaíso", "comuna": "San Felipe" }
+            ]
+          },
+          {
+            "seller": "Seller E",
+            "rating": 2,
+            "price": 14159,
+            "specialPrice": 7430,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Zapallar" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+              { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Ñuble", "comuna": "Pinto" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Polera 1 pieza Algodón Niño",
+        "productId": "882382727",
+        "brand": "STARTER",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/882382752_1",
+          "https://falabella.scene7.com/is/image/Falabella/882382752_2"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller B",
+            "rating": 3,
+            "price": 13899,
+            "specialPrice": 7670,
+            "shippingTime": 1,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Olmué" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Ñuble", "comuna": "Pinto" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Valparaíso", "comuna": "Calle Larga" },
+              { "region": "Ñuble", "comuna": "El Carmen" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Pedro" }
+            ]
+          },
+          {
+            "seller": "Seller D",
+            "rating": 4,
+            "price": 14159,
+            "specialPrice": 7350,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Olmué" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" }
+            ]
+          },
+          {
+            "seller": "Seller A",
+            "rating": 2,
+            "price": 13249,
+            "specialPrice": 7191,
+            "shippingTime": 1,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Valparaíso", "comuna": "Zapallar" }
+            ]
+          },
+          {
+            "seller": "Seller C",
+            "rating": 3,
+            "price": 14289,
+            "specialPrice": 7191,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Polera 1 pieza Algodón Niño",
+        "productId": "882382727",
+        "brand": "STARTER",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/882382732_1",
+          "https://falabella.scene7.com/is/image/Falabella/882382732_2",
+          "https://falabella.scene7.com/is/image/Falabella/882382732_3"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller A",
+            "rating": 5,
+            "price": 13249,
+            "specialPrice": 7670,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Ñuble", "comuna": "Quillón" },
+              { "region": "Valparaíso", "comuna": "San Felipe" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Ñuble", "comuna": "El Carmen" }
+            ]
+          },
+          {
+            "seller": "Seller B",
+            "rating": 5,
+            "price": 13509,
+            "specialPrice": 7750,
+            "shippingTime": 1,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+              { "region": "Valparaíso", "comuna": "Calle Larga" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Valparaíso", "comuna": "Limache" }
+            ]
+          },
+          {
+            "seller": "Seller D",
+            "rating": 4,
+            "price": 13899,
+            "specialPrice": 7430,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Pedro" }
+            ]
+          },
+          {
+            "seller": "Seller C",
+            "rating": 4,
+            "price": 13509,
+            "specialPrice": 7191,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+              { "region": "Ñuble", "comuna": "Quillón" },
+              { "region": "Valparaíso", "comuna": "San Felipe" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Polera 1 pieza Algodón Niño",
+        "productId": "882382727",
+        "brand": "STARTER",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/882382729_1",
+          "https://falabella.scene7.com/is/image/Falabella/882382729_2",
+          "https://falabella.scene7.com/is/image/Falabella/882382729_3"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller B",
+            "rating": 3,
+            "price": 13379,
+            "specialPrice": 7430,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+              { "region": "Ñuble", "comuna": "El Carmen" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Valparaíso", "comuna": "Putaendo" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" }
+            ]
+          },
+          {
+            "seller": "Seller E",
+            "rating": 5,
+            "price": 12990,
+            "specialPrice": 7590,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Valparaíso", "comuna": "Calle Larga" },
+              { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+              { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+              { "region": "Valparaíso", "comuna": "Olmué" },
+              { "region": "Ñuble", "comuna": "San Nicolás" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" }
+            ]
+          },
+          {
+            "seller": "Seller A",
+            "rating": 3,
+            "price": 14289,
+            "specialPrice": 7510,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+              { "region": "Valparaíso", "comuna": "Olmué" },
+              { "region": "Ñuble", "comuna": "El Carmen" },
+              { "region": "Ñuble", "comuna": "Pinto" },
+              { "region": "Valparaíso", "comuna": "San Felipe" }
+            ]
+          },
+          {
+            "seller": "Seller C",
+            "rating": 2,
+            "price": 14029,
+            "specialPrice": 7350,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Valparaíso", "comuna": "San Felipe" },
+              { "region": "Ñuble", "comuna": "San Nicolás" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Camisa Hombre",
+        "productId": "882357460",
+        "brand": "BEARCLIFF",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/882357470_1",
+          "https://falabella.scene7.com/is/image/Falabella/882357470_2",
+          "https://falabella.scene7.com/is/image/Falabella/882357470_3"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller C",
+            "rating": 5,
+            "price": 20389,
+            "specialPrice": 9790,
+            "shippingTime": 1,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+              { "region": "Valparaíso", "comuna": "San Felipe" },
+              { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" }
+            ]
+          },
+          {
+            "seller": "Seller E",
+            "rating": 5,
+            "price": 21989,
+            "specialPrice": 9290,
+            "shippingTime": 1,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+              { "region": "Ñuble", "comuna": "El Carmen" },
+              { "region": "Ñuble", "comuna": "Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" }
+            ]
+          },
+          {
+            "seller": "Seller B",
+            "rating": 4,
+            "price": 20589,
+            "specialPrice": 9090,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Ñuble", "comuna": "El Carmen" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Camiseta Manga Larga Algodón Pack 2 Mota",
+        "productId": "14429170",
+        "brand": "MOTA",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/14429173_1",
+          "https://falabella.scene7.com/is/image/Falabella/14429173_2",
+          "https://falabella.scene7.com/is/image/Falabella/14429173_3"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller E",
+            "rating": 5,
+            "price": 10289,
+            "specialPrice": 9890,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Ñuble", "comuna": "Pinto" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+              { "region": "Valparaíso", "comuna": "San Felipe" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+              { "region": "Ñuble", "comuna": "San Nicolás" }
+            ]
+          },
+          {
+            "seller": "Seller B",
+            "rating": 2,
+            "price": 10689,
+            "specialPrice": 9890,
+            "shippingTime": 1,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" },
+              { "region": "Ñuble", "comuna": "Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Valparaíso", "comuna": "Putaendo" },
+              { "region": "Valparaíso", "comuna": "Zapallar" }
+            ]
+          },
+          {
+            "seller": "Seller A",
+            "rating": 4,
+            "price": 9990,
+            "specialPrice": 9890,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "San Felipe" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" }
+            ]
+          },
+          {
+            "seller": "Seller C",
+            "rating": 4,
+            "price": 10589,
+            "specialPrice": 9190,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+              { "region": "Valparaíso", "comuna": "Zapallar" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Ñuble", "comuna": "Pinto" },
+              { "region": "Valparaíso", "comuna": "Concón" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Camisa de Vestir Slim Fit Hombre",
+        "productId": "881689155",
+        "brand": "BASEMENT",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/881689158_1",
+          "https://falabella.scene7.com/is/image/Falabella/881689158_2"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller B",
+            "rating": 3,
+            "price": 26239,
+            "specialPrice": 23990,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Ñuble", "comuna": "San Nicolás" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Ñuble", "comuna": "El Carmen" }
+            ]
+          },
+          {
+            "seller": "Seller A",
+            "rating": 3,
+            "price": 25989,
+            "specialPrice": 22491,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Valparaíso", "comuna": "San Felipe" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Valparaíso", "comuna": "Concón" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" }
+            ]
+          },
+          {
+            "seller": "Seller D",
+            "rating": 3,
+            "price": 26239,
+            "specialPrice": 24490,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+              { "region": "Valparaíso", "comuna": "San Felipe" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" }
+            ]
+          },
+          {
+            "seller": "Seller C",
+            "rating": 3,
+            "price": 26739,
+            "specialPrice": 23240,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

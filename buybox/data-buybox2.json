@@ -1,0 +1,65 @@
+{
+    "name": "Camisa de Vestir Slim Fit Hombre",
+    "productId": "881875219",
+    "brand": "BASEMENT",
+    "images": [
+      "https://falabella.scene7.com/is/image/Falabella/881875225_1",
+      "https://falabella.scene7.com/is/image/Falabella/881875225_2",
+      "https://falabella.scene7.com/is/image/Falabella/881875225_3"
+    ],
+    "offerings": [
+      {
+        "seller": "Seller C",
+        "rating": 5,
+        "price": 26739,
+        "specialPrice": 24990,
+        "shippingTime": 0,
+        "shippingZones": [
+          { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+          { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+          { "region": "Valparaíso", "comuna": "Puchuncaví" },
+          { "region": "Ñuble", "comuna": "San Nicolás" },
+          { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+          { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+          { "region": "Metropolitana de Santiago", "comuna": "Conchalí" }
+        ]
+      },
+      {
+        "seller": "Seller E",
+        "rating": 4,
+        "price": 26489,
+        "specialPrice": 24240,
+        "shippingTime": 1,
+        "shippingZones": [
+          { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+          { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+          { "region": "Valparaíso", "comuna": "Limache" },
+          { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+          { "region": "Valparaíso", "comuna": "Concón" },
+          { "region": "Valparaíso", "comuna": "Puchuncaví" },
+          { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" }
+        ]
+      },
+      {
+        "seller": "Seller A",
+        "rating": 4,
+        "price": 25239,
+        "specialPrice": 23740,
+        "shippingTime": 1,
+        "shippingZones": [
+          { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+          { "region": "Ñuble", "comuna": "El Carmen" },
+          { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+          { "region": "Valparaíso", "comuna": "Limache" },
+          { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+          { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+          { "region": "Valparaíso", "comuna": "Olmué" },
+          { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+          { "region": "Valparaíso", "comuna": "Calle Larga" },
+          { "region": "Ñuble", "comuna": "Chillán Viejo" },
+          { "region": "Metropolitana de Santiago", "comuna": "Pirque" }
+        ]
+      }
+    ]
+  }
+  
