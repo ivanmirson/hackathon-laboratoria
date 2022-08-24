@@ -12,6 +12,7 @@
         "rating": 5,
         "price": 13119,
         "specialPrice": 7750,
+        "shippingPrice": 0,
         "shippingTime": 0,
         "shippingZones": [
           { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
@@ -29,6 +30,7 @@
         "rating": 2,
         "price": 13769,
         "specialPrice": 7750,
+        "shippingPrice": 3000,
         "shippingTime": 3,
         "shippingZones": [
           { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
@@ -48,6 +50,7 @@
         "price": 14159,
         "specialPrice": 7350,
         "shippingTime": 2,
+        "shippingPrice": 0,
         "shippingZones": [
           { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
           { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
